@@ -1,0 +1,40 @@
+/* src/UserList.css */
+.user-list {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+  }
+  
+  .user-list h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .user-item {
+    background: white;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-item h2 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  .user-item p {
+    margin: 0.5rem 0;
+  }
+  
+  .user-item a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .user-item a:hover {
+    text-decoration: underline;
+  }
+  
